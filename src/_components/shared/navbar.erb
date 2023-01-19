@@ -1,0 +1,18 @@
+<section>
+  <div class="grid grid-cols-3 gap-4 max-w-5xl mx-auto px-4 py-8">
+    <header class="col-span-1">
+      <a href="<%= relative_url '/' %>" class="flex items-center justify-start">
+        <img src="<%= relative_url '/images/logo.png' %>" alt="Logo" class="w-10" />
+      </a>
+    </header>
+
+    <nav class="col-span-2 flex flex-col md:flex-row justify-end items-end md:items-center md:space-x-8">
+      <a href="https://blog.adrianvalenz.com" onclick="window.fathom.trackGoal('HALSNYKF', 0);" target="_blank" class="uppercase font-bold text-sm">Journal</a>
+      <a href="https://dev.to/adrianvalenz" onclick="window.fathom.trackGoal('60F7QWSQ', 0);" target="_blank" class="uppercase font-bold text-sm">Tutorials</a>
+      <a href="<%= relative_url '/resume.pdf' %>" onclick="window.fathom.trackGoal('PQF69JVA', 0);" target="_blank" class="uppercase font-bold text-sm">Resume</a>
+    </nav>
+
+    <aside class="py-4"><!-- spacer element -->
+    </aside>
+  </div>
+</section>

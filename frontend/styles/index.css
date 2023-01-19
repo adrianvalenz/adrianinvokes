@@ -1,0 +1,33 @@
+/* If you need to add @import statements, do so up here */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,900;1,900&display=swap');
+
+@import "jit-refresh.css"; /* triggers frontend rebuilds */
+
+/* Set up Tailwind imports */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  p {
+    @apply pb-4 leading-6;
+  }
+}
+
+@layer utilities {
+  .box-shadow {
+    box-shadow: 
+      12px 12px 0 0 theme(colors.stone.100),
+      13px 11px 0 0 theme(colors.stone.500),
+      13px 13px 0 0 theme(colors.stone.500),
+      11px 13px 0 0 theme(colors.stone.500);
+  }
+}
+
+::selection {
+  @apply bg-stone-500 text-stone-50;
+}
+
+::-moz-selection {
+  @apply bg-stone-500 text-stone-50;
+}

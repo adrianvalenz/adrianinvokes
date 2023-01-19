@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<section class="max-w-5xl mx-auto px-4 py-2">
+  <h1 class="font-black font-serif text-5xl mb-4"><%= data.title %></h1>
+</section>
+
+<section class="max-w-5xl px-4 mx-auto py-2 grid grid-cols-5 gap-12">
+  <img src="<%= relative_url("/images/selfie.jpg") %>" class="col-span-5 w-1/2 md:w-full md:col-span-2 box-shadow"/>
+  <div class="col-span-5 md:col-span-3">
+    <%= yield %>
+  </div>
+</section>
