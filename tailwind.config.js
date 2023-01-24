@@ -7,8 +7,8 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      "sans": ["Open Sans", "sans-serif"],
-      "serif": ["Playfair Display", "serif"],
+      "sans": ["Roboto", "sans-serif"],
+      "serif": ["Roboto Slab", "serif"],
     },
   },
   plugins: [],
