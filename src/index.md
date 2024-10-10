@@ -5,7 +5,7 @@ layout: home
 title: "Hey, my name is Adrian Valenzuela"
 ---
 
-In my former life I was a barber, now a Full Stack Web Developer, with 8+ years of professional experience in the industry, I have designed, developed, and maintained a wide range of applications for
+In my former life I was a barber, now a Full Stack Web Developer, with 8+ years of professional experience in the industry. I have designed, developed, and maintained a wide range of applications for
 both small businesses and corporations. 
 
 I am a proud member of the Bridgetown core team and I manage a [tech blog](https://mugenruby.com) to show other developers what I have learned.
