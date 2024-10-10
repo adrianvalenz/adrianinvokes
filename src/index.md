@@ -5,14 +5,19 @@ layout: home
 title: "Hello, my name is Adrian Valenzuela"
 ---
 
-In my former life I was a barber, but due to a long time intereste in technology, I am now a Full Stack Web Developer. With 8+ years of professional experience in the industry, I have designed, developed, and maintained a wide range of applications for
-both small business clients and corporations. 
+In my former life I was a barber before working as a web developer. Creating something valuable out of nothing, like typing a
+web application into existence, has always fascinated me. 
 
-As a proud member of the Bridgetown core team I have contributed to the project via tutorials and documentation. In my spare time I manage a <span class="text-rose-500 border-b border-rose-500">[tech blog](https://mugenruby.com)</span> to show other developers what I have learned.
+Now with 8+ years and counting of professional experience in the industry, I have designed, developed, and maintained a wide range of applications for
+both small business clients and corporations and have helped them reach their milestones and business goals.
+
+As a proud member of the Bridgetown Core Team, I have contributed to the Bridgetown Community via tutorials and documentation. 
+In my spare time I manage a <span class="text-rose-500 border-b border-rose-500">[tech blog](https://mugenruby.com)</span> to show other 
+developers what I have learned. I believe that knowledge is power. Teaching and learning from each other can give us that power to improve our quality of life.
 
 I am currently working on a few exciting projects, these include a React-based CMS for Bridgetown and a component library for Rails based on GitHub's ViewComponents and TailwindCSS.
 
-I currently reside on the central coast of California, just five minutes away from the beach with my wife and three beautiful kids. We love watching Disney movies and Harry Potter, all..year..round.
+I currently reside on the central coast of California, just five minutes away from the beach with my wife and our three beautiful kids. We love watching Harry Potter, baking pastries, and going for walks on our favorite hiking trails.
 
 <span class="py-4 inline-block">
     <button class="group py-2 px-4 text-stone-100 bg-stone-700 border border-stone-800 uppercase text-sm font-bold hover:border-rose-500 hover:bg-rose-500 flex items-center space-x-2 drop-shadow-sm hover:drop-shadow-lg">
