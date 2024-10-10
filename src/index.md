@@ -8,7 +8,7 @@ title: "Hello, my name is Adrian Valenzuela"
 In my former life I was a barber, but due to a long time intereste in technology, I am now a Full Stack Web Developer. With 8+ years of professional experience in the industry, I have designed, developed, and maintained a wide range of applications for
 both small business clients and corporations. 
 
-As a proud member of the Bridgetown core team I have contributed to the project via tutorials and documentation. In my spare time I manage a [tech blog](https://mugenruby.com) to show other developers what I have learned.
+As a proud member of the Bridgetown core team I have contributed to the project via tutorials and documentation. In my spare time I manage a <span class="text-rose-500 border-b border-rose-500">[tech blog](https://mugenruby.com)</span> to show other developers what I have learned.
 
 I am currently working on a few exciting projects, these include a React-based CMS for Bridgetown and a component library for Rails based on GitHub's ViewComponents and TailwindCSS.
 
