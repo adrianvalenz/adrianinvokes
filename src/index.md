@@ -2,17 +2,17 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: home
-title: "Hey, my name is Adrian Valenzuela"
+title: "Hello, my name is Adrian Valenzuela"
 ---
 
-In my former life I was a barber, now a Full Stack Web Developer, with 8+ years of professional experience in the industry. I have designed, developed, and maintained a wide range of applications for
-both small businesses and corporations. 
+In my former life I was a barber, but due to a long time interested in technology, I am now a Full Stack Web Developer. With 8+ years of professional experience in the industry, I have designed, developed, and maintained a wide range of applications for
+both small business clients and corporations. 
 
-I am a proud member of the Bridgetown core team and I manage a [tech blog](https://mugenruby.com) to show other developers what I have learned.
+As a proud member of the Bridgetown core team I have contributed to the project via tutorials and documentation. In my spare time I manage a [tech blog](https://mugenruby.com) to show other developers what I have learned.
 
-A few projects I'm really excited about right is a React-based CMS for Bridgetown and a component library for Rails based on GitHub's ViewComponents and TailwindCSS.
+I am currently working on a few exciting projects, these include a React-based CMS for Bridgetown and a component library for Rails based on GitHub's ViewComponents and TailwindCSS.
 
-I live on the Central Coast in California, just 5 minutes away from the beach with my wife and 3 beautiful kids. We love watching Disney movies and Harry Potter, all..year..round.
+I currently reside on the central coast of California, just five minutes away from the beach with my wife and three beautiful kids. We love watching Disney movies and Harry Potter, all..year..round.
 
 <span class="py-4 inline-block">
     <button class="group py-2 px-4 text-stone-100 bg-stone-700 border border-stone-800 uppercase text-sm font-bold hover:border-rose-500 hover:bg-rose-500 flex items-center space-x-2 drop-shadow-sm hover:drop-shadow-lg">
