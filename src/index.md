@@ -5,13 +5,12 @@ layout: home
 title: "Hey, my name is Adrian Valenzuela"
 ---
 
-As a Full Stack Ruby on Rails developer with 7+ years of industry experience, I have designed, developed, and maintained a wide range of applications for both small business clients and corporations.
+As a Full Stack Web Developer, with 8+ years of professional experience in the industry, I have designed, developed, and maintained a wide range of applications for
+both small businesses and corporations. 
 
-I am proud to be a member of the Bridgetown Ruby core team and a contributor to Open Source Software.
+I am a proud member of the Bridgetown core team and I manage a [tech blog](https://mugenruby.com) to show other developers what I have learned.
 
-I am currently developing few OSS gems and building an app to help independent contractors manage taxes...more on that later.
-
-My passion for Ruby includes writing tutorials, mentoring junior developers, and creating innovative projects.
+A few projects I'm really excited about right is a React-based CMS for Bridgetown and a component library for Rails based on GitHub's ViewComponents and TailwindCSS.
 
 <span class="py-4 inline-block">
     <button class="group py-2 px-4 text-stone-100 bg-stone-700 border border-stone-800 uppercase text-sm font-bold hover:border-rose-500 hover:bg-rose-500 flex items-center space-x-2 drop-shadow-sm hover:drop-shadow-lg">
