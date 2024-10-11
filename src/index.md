@@ -5,19 +5,13 @@ layout: home
 title: "Hello, my name is Adrian Valenzuela"
 ---
 
-In my former life I was a barber before working as a web developer. Creating something valuable out of nothing, like typing a
-web application into existence, has always fascinated me. 
+Before becoming a web developer, I worked as a barber, where I discovered my passion for creating something valuable from scratch. With over 8 years of professional experience, I have designed, developed, and maintained a diverse range of applications for both small businesses and corporations, helping them achieve their goals.
 
-Now with 8+ years and counting of professional experience in the industry, I have designed, developed, and maintained a wide range of applications for
-both small business clients and corporations and have helped them reach their milestones and business goals.
+As a proud member of the Bridgetown Core Team, I contribute to the community through tutorials and documentation. In my spare time, I manage a <span class="text-rose-500 border-b border-rose-500">[tech blog](https://mugenruby.com)</span> to share insights and knowledge, believing that teaching and learning from one another empowers us to improve our lives.
 
-As a proud member of the Bridgetown Core Team, I have contributed to the Bridgetown Community via tutorials and documentation. 
-In my spare time I manage a <span class="text-rose-500 border-b border-rose-500">[tech blog](https://mugenruby.com)</span> to show other 
-developers what I have learned. I believe that knowledge is power. Teaching and learning from each other can give us that power to improve our quality of life.
+Currently, I am working on several exciting projects, including a React-based CMS for Bridgetown and a component library for Rails utilizing GitHub’s ViewComponents and TailwindCSS.
 
-I am currently working on a few exciting projects, these include a React-based CMS for Bridgetown and a component library for Rails based on GitHub's ViewComponents and TailwindCSS.
-
-I currently reside on the central coast of California, just five minutes away from the beach with my wife and our three beautiful kids. We love watching Harry Potter, baking pastries, and going for walks on our favorite hiking trails.
+I reside on the central coast of California with my wife and three wonderful kids, just five minutes from the beach. We enjoy watching Harry Potter movies, baking pastries, and exploring our favorite hiking trails. 
 
 <span class="py-4 inline-block">
     <button class="group py-2 px-4 text-stone-100 bg-stone-700 border border-stone-800 uppercase text-sm font-bold hover:border-rose-500 hover:bg-rose-500 flex items-center space-x-2 drop-shadow-sm hover:drop-shadow-lg">
