@@ -31,3 +31,7 @@
 ::-moz-selection {
   @apply bg-stone-500 text-stone-50;
 }
+
+ul {
+  @apply list-disc pl-4;
+}
