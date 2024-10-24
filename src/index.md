@@ -14,7 +14,7 @@ Currently, I am working on several exciting projects, including a React-based CM
 I reside on the central coast of California with my wife and three wonderful kids, just five minutes from the beach. We enjoy watching Harry Potter movies, baking pastries, and exploring our favorite hiking trails. 
 
 <span class="py-4 inline-block">
-    <button class="group py-2 px-4 text-stone-100 bg-stone-700 border border-stone-800 uppercase text-sm font-bold hover:border-rose-500 hover:bg-rose-500 flex items-center space-x-2 drop-shadow-sm hover:drop-shadow-lg">
+    <button class="group py-2 px-4 text-stone-100 bg-sky-700 border border-stone-800 uppercase text-sm font-bold hover:border-sky-600 hover:bg-sky-600 flex items-center space-x-2 drop-shadow hover:drop-shadow-lg">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 group-hover:-rotate-12">
           <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
         </svg>
