@@ -5,7 +5,8 @@ title: Quotes
 
 <p class="italic text-stone-400">These are some of my favorite quotes I have
 collected.</p> 
-<p>For lighter content, checkout my <a href="/dad-jokes" class="text-rose-500">dad jokes</a></p>
+<p>For lighter content, checkout my <a href="/dad-jokes" class="text-sky-500">dad jokes</a>.
+I even have <a href="/bible-verses" class="text-sky-500">bible verses</a>.</p>
 
 - "There is Hope"
 - "Ready, Fire, Aim"
