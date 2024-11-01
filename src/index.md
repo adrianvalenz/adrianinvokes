@@ -7,7 +7,7 @@ title: "Hello, my name is Adrian Valenzuela"
 
 Before becoming a web developer, I worked as a barber, where I discovered my passion for creating something valuable from scratch. With over 8 years of professional experience, I have designed, developed, and maintained a diverse range of applications for both small businesses and corporations, helping them achieve their goals.
 
-As a proud member of the Bridgetown Core Team, I contribute to the community through tutorials and documentation. In my spare time, I manage a <span class="text-rose-500 border-b border-rose-500">[tech blog](https://mugenruby.com){:target="_blank"}</span> to share insights and knowledge, believing that teaching and learning from one another empowers us to improve our lives.
+As a proud member of the Bridgetown Core Team, I contribute to the community through tutorials and documentation. In my spare time, I manage a <span class="text-sky-500 border-b border-sky-500">[tech blog](https://mugenruby.com){:target="_blank"}</span> to share insights and knowledge, believing that teaching and learning from one another empowers us to improve our lives.
 
 Currently, I am working on several exciting projects, including a React-based CMS for Bridgetown and a component library for Rails utilizing GitHub’s ViewComponents and TailwindCSS.
 
