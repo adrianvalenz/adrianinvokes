@@ -31,3 +31,5 @@ gem 'bridgetown', '~> 1.3', '>= 1.3.4'
 # Puma is a Rack-compatible server used by Bridgetown
 # (you can optionally limit this to the "development" group)
 gem "puma", "< 7"
+
+gem "bridgetown_cms", git: "https://github.com/adrianvalenz/bridgetown_cms"

@@ -15,6 +15,9 @@ Bridgetown.configure do |config|
   # `.env`. Just `bundle add dotenv` and then uncomment this:
   #
   # init :dotenv
+
+  init :ssr
+  init :bridgetown_cms
   #
 
   # Uncomment to use Bridgetown SSR (aka dynamic rendering of content via Roda):
